@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Javier Fajardo"
-  site-url: ""
+  site-url: "https://javierfajardo.github.io/"
   description: "Research, writing, and projects by Javier Fajardo."
   navbar: false
   sidebar:
