@@ -52,7 +52,8 @@ body {
 
 #quarto-sidebar {
   background: var(--paper);
-  border-right: 1px solid var(--line);
+  /* border-right: 1px solid var(--line); */
+  border-right: none !important;
   padding: 3.7rem 1.4rem;
 }
 
@@ -99,6 +100,35 @@ a:hover { color: var(--accent); }
 .listing-item { border-bottom: 1px solid var(--line); padding: 1.3rem 0 !important; }
 .listing-title { font-weight: 600; }
 .page-footer { color: var(--muted); border-top: 1px solid var(--line); font-size: .78rem; }
+
+.profile-links {
+  margin: 0.5rem 0 1.75rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.profile-links a {
+  color: var(--accent);
+  text-decoration: none;
+  margin-right: 1.5rem;
+}
+
+.profile-links a:hover {
+  text-decoration: underline;
+}
+
+.profile-links i {
+  margin-right: 0.3rem;
+}
+
+.nav-footer {
+  background: var(--paper) !important;
+  color: var(--muted);
+}
+
+.nav-footer a {
+  color: var(--muted);
+}
 
 @media (max-width: 600px) {
   #quarto-document-content { padding: 2.2rem 1.25rem 4rem; }

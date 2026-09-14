@@ -1,14 +1,12 @@
 ---
 title: ""
-about:
-  template: solana
-  image: images/Photo - Javier Fajardo.jpg
-  image-shape: rounded
 ---
+
+![](images/Photo - Javier Fajardo.jpg){fig-align="center" width=190 fig-alt="Portrait of Javier Fajardo"}
 
 # Javier Fajardo
 
-*[Researcher in Environmental Conservation]{.accent} at DICE (University of Kent).*
+[*Researcher in Environmental Conservation*]{.accent} *at DICE (University of Kent).* Javier Fajardo
 
 I am a conservation scientist studying how area-based conservation can protect biodiversity while advancing equity. My research focuses on conservation planning, conservation effectiveness, and data justice in biodiversity policy.
 
@@ -22,7 +20,7 @@ My work asks how conservation, particularly global biodiversity commitments to e
 
 1.  Fajardo, J. *et al.* (2026) [Social implications of the 30×30 global conservation target](https://doi.org/10.1038/s41467-026-71860-8). *Nature Communications*.
 2.  Fajardo, J. *et al.* (2025) [Reflections from interdisciplinary research on the social implications of implementing 30×30](https://doi.org/10.2305/nfzn8173). *PARKS*
-3.  Sandbrook, C. Fajardo, J. *et al.* (2023) [Social considerations are crucial to success in implementing the 30×30 global conservation target](https://doi.org/10.1038/s41559-023-02048-2). *Nature Ecology & Evolution*
+3.  Sandbrook, C., ... Fajardo, J. *et al.* (2023) [Social considerations are crucial to success in implementing the 30×30 global conservation target](https://doi.org/10.1038/s41559-023-02048-2). *Nature Ecology & Evolution*
 4.  Lessmann, J., Geldmann, J., Fajardo, J. *et al.* (2024) [The role of funding in the performance of Latin America’s protected areas](https://doi.org/10.1073/pnas.2307521121). *PNAS*.
 5.  Fajardo, J. *et al.* (2023) [The performance of protected-area expansions in representing tropical Andean species: past trends and climate change prospects](https://doi.org/10.1038/s41598-022-27365-7). *Scientific Reports*.
 
@@ -34,10 +32,20 @@ My work asks how conservation, particularly global biodiversity commitments to e
 
 In my new postdoctoral position within the *E3 “Sharing Space for Nature”* project at the University of Kent, I will examine how, where, and under what conditions conserved areas (i.e., other effective area-based conservation measures or OECMs) can deliver ecological and social outcomes across multi-use landscapes and seascapes.
 
-### [Conservation Data Justice](https://condjust.eu/)
+### [CONDJUST: Conservation Data Justice](https://condjust.eu/)
 
-### [The social implications of 30×30](https://snappartnership.net/team/the-social-implications-of-30-x-30/)
+### [SNAPP project The social implications of 30×30](https://snappartnership.net/team/the-social-implications-of-30-x-30/)
 
 ## Elsewhere
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/javier-fajardo-80aa76319/) and on my [university page](https://scholar.google.com/citations?user=L30b63UAAAAJ&hl=es).
+<div class="profile-links">
+  <a href="https://www.linkedin.com/in/javier-fajardo-80aa76319">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+  <a href="https://scholar.google.com/citations?user=L30b63UAAAAJ&hl=es">
+    <i class="bi bi-building"></i> University profile
+  </a>
+  <a href="mailto:javierfjrdo@gmail.com">
+    <i class="bi bi-envelope"></i> Email
+  </a>
+</div>
