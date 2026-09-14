@@ -1,0 +1,13 @@
+"Edit (in positron or text editor)"
+  ↓
+quarto render
+  ↓
+"Check locally (optional) - e.g., with quarto preview"; Ctrl+C exists preview in terminal
+  ↓
+git add .
+  ↓
+git commit -m "Updated website"
+  ↓
+git push
+  ↓
+quarto publish gh-pages --no-render
