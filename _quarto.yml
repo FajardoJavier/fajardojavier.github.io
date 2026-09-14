@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Javier Fajardo"
+  site-url: ""
+  description: "Research, writing, and projects by Javier Fajardo."
+  navbar: false
+  sidebar:
+    style: docked
+    search: false
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+#      - href: writing.qmd
+#        text: Writing
+      - href: cv.qmd
+        text: CV & contact
+  page-footer:
+    left: "© 2026 Javier Fajardo"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header: dark-toggle.html
+    toc: false
+    smooth-scroll: true
+
+editor: visual

@@ -1,0 +1,70 @@
+---
+title: "Research"
+---
+
+My work asks how conservation, particularly global biodiversity commitments to expand protected and conserved areas, can become effective and equitable conservation in practice. I examine how planning choices, the data that are available or missing, and the ways affected people and places are represented shape conservation outcomes across different ecological and social contexts.
+
+## Publications
+
+Addoah T, **Fajardo J**, et al. (2026) Cocoa expansion displaces food crops into protected forests, but sustainability programmes reduce loss. *Nature Communications Earth & Environment.* [Paper](https://doi.org/10.1038/s43247-026-03930-0)
+
+Tomba AN, **Fajardo J,** et al. (2026). From rock and ice to political convenience: persistent biases in Argentina’s protected areas. *Perspectives in Ecology and Conservation*. [Paper](https://doi.org/10.1016/j.pecon.2026.07.001)
+
+**Fajardo J**, Bingham HC, Brockington D, et al. (2026) Social implications of the 30x30 global conservation target. *Nature Communications* **17:** 4067. [Paper](https://doi.org/10.1038/s41467-026-71860-8)
+
+Tomba, AN, **Fajardo J**, et al. (2026) Economic priorities shape protected area placement: the role of land competition in Argentina. *Biological Conservation* 313: 111594. [Paper](https://doi.org/10.1016/j.biocon.2025.111594)
+
+**Fajardo J**, Brockington D, Fitzsimons J, et al. (2025) Reflections from interdisciplinary research on the social implications of implementing 30×30, *PARKS* 31.2, 122:128. [Paper](https://doi.org/10.2305/nfzn8173)
+
+Garrett R, **Fajardo J**, et al. (2025) Policy principles for sustainable and just land systems, *Royal Society Open Science* 12,10: 250810. [Paper](https://doi.org/10.1098/rsos.250810)
+
+Blanco-Pastor JL, **Fajardo J**, Fernández de Castro AG, et al. (2025) Environmental data do not correlate with plant genetic diversity in alpine ecosystems. *Ecology and Evolution* 15:5: e71332. [Paper](https://doi.org/10.1002/ece3.71332)
+
+Lessmann J, Geldmann J, **Fajardo J**, and Marquet PA (2024) The role of funding in the performance of Latin America’s protected areas. *PNAS* 121:36, e2307521121. [Paper](https://doi.org/10.1073/pnas.2307521121)
+
+Sandbrook, C, **Fajardo J**, et al. (2023) Social considerations are crucial to success in implementing the 30×30 global conservation target. *Nature Ecology & Evolution* 7, 784–785. [Paper](https://doi.org/10.1038/s41559-023-02048-2)
+
+**Fajardo J**, Lessmann L, et al. (2023) The performance of protected-area expansions in representing tropical Andean species: Past Trends and Climate Change Prospects. *Scientific Reports* 13, 1: 966. [Paper](https://doi.org/10.1038/s41598-022-27365-7)
+
+Wang CJ, Wan JZ, **Fajardo J** (2021) Effects of agricultural lands on the distribution pattern of genus diversity for neotropical terrestrial vertebrates. *Ecological Indicators* 1;129:107900. [Paper](https://doi.org/10.1016/j.ecolind.2021.107900)
+
+Delso Á, **Fajardo J**, Muñoz J (2021) Protected area networks do not represent unseen biodiversity. *Scientific Reports*. 11 :12275. [Paper](https://doi.org/10.1038/s41598-021-91651-z)
+
+**Fajardo J**, Corcoran D, Roehrdanz PR, et al. (2020). GCM compareR: A web application to assess differences and assist in the selection of general circulation models for climate change research. *Methods in Ecology and Evolution*, 11(5), 656-663. [Paper](https://doi.org/10.1111/2041-210X.13360)
+
+Bondé L, **Fajardo J**, et al. (2020) Scenario-modelling for the sustainable management of non-timber forest products in tropical ecosystems. *Biota Neotropica* 5:20. [Paper](https://doi.org/10.1590/1676-0611-bn-2019-0898)
+
+Hannah L, **Fajardo J**, et al. (2020), 30% land conservation and climate action reduces tropical extinction risk by more than 50%. *Ecography*, 43: 943-953. [Paper](https://doi.org/10.1111/ecog.05166)
+
+**Fajardo J**, Mateo RG, Vargas P, et al. (2019) The role of abiotic mechanisms of long-distance dispersal in the American origin of the Galápagos flora. *Global Ecology and Biogeography*. [Paper](https://doi.org/10.1111/geb.12977)
+
+Lessmann J, **Fajardo J**, Bonaccorso E, Bruner A (2019) Cost-effective protection of biodiversity in the western Amazon. *Biological conservation* 235, 250-259. [Paper](https://doi.org/10.1016/j.biocon.2019.04.022)
+
+Oleas NH, Feeley KJ, **Fajardo J**, et al. (2019) Muddy boots beget wisdom: A cautionary tale for species distribution models of endangered species. *Diversity*, 11 (10), 1-11. [Paper](https://doi.org/10.3390/d11010010)
+
+Fuentes-Castillo T, **Fajardo J**, et al. (2019) Modelling the current and future biodiversity distribution in the Chilean Mediterranean Hotspot. The role of protected areas network in a warmer future. *Diversity and Distributions*, 25 (12), 1897-1909. [Paper](https://doi.org/10.1111/ddi.12988)
+
+Lessmann J, **Fajardo J**, Muñoz J, Bonaccorso E (2016) Large expansion of oil industry in one of the most biodiverse areas of the world: biodiversity vulnerability and conservation alternatives for the Ecuadorian Amazon. *Ecology and Evolution* 4 (14), 4997-5012. [Paper](https://doi.org/10.1002/ece3.2099)
+
+**Fajardo J**, Lessmann J, Bonaccorso E, Devenish C & Muñoz J (2014) Combined use of systematic conservation planning, species distribution upervisi, and connectivity analysis reveals severe conservation gaps in a megadiverse country (Peru). *PloS ONE* 9: e114367. [Paper](https://doi.org/10.1371/journal.pone.0114367)
+
+## Book chapters and selected policy outputs and science
+communications
+
+Sandbrook C, **Fajardo J** (2026) Conserving 30% of the planet will only succeed if people are part of the plan, *The Conversation*. [Link](https://theconversation.com/embargo-may-12-at-10am-conserving-30-of-the-planet-will-only-succeed-if-people-are-part-of-the-plan-278629)
+
+Morales D, **Fajardo J**, et al. (2025) Chapter on protected areas and environmental peacebuilding. In *Paz Ambiental: Ecos de La Naturaleza En  La Transformación Social*. Instituto CAPAZ e Instituto Humbold. [Link](https://www.instituto-capaz.org/wp-content/uploads/2025/02/CAPAZ_Paz_Ambiental_Digital.pdf)
+
+UNEP-WCMC (2023) *Mapping Nature-Based Solutions for Societal Challenges. A Product of the SPACES Coalition*. UNEP-WCMC report. [Link](https://pure.iiasa.ac.at/id/eprint/18923/1/202306_SPACES-NbS-Review_02.pdf)
+
+## Research projects
+
+### [Advancing effective and equitable OECMs at scale in Southeast Asia](https://research.kent.ac.uk/sharing-space-for-nature/)
+
+In my new postdoctoral position within the *E3 “Sharing Space for Nature”* project at the University of Kent, I will examine how, where, and under what conditions conserved areas (i.e., other effective area-based conservation measures or OECMs) can deliver ecological and social outcomes across multi-use landscapes and seascapes.
+
+### [Conservation Data Justice](https://condjust.eu/)
+
+### [The social implications of 30×30](https://snappartnership.net/team/the-social-implications-of-30-x-30/)
+
+##

@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+## Contact
+
+The best way to reach me is at [**javierfjrdo \[at\] gmail.com**]{.underline}.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/your-profile) or through my [university profile](https://www.your-university.example).
+
+## CV
+
+[Download my CV (PDF)](files/cv.pdf){.button-link}
+
+##
