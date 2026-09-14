@@ -72,25 +72,45 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <script>
+
   document.addEventListener('DOMContentLoaded', () => {
+
     const savedTheme = localStorage.getItem('theme');
+
     if (savedTheme !== 'light') document.documentElement.classList.add('dark');
 
+
+
     const button = document.createElement('button');
+
     button.className = 'theme-toggle';
+
     button.type = 'button';
+
     button.setAttribute('aria-label', 'Toggle dark mode');
+
     button.setAttribute('title', 'Toggle dark mode');
+
     button.innerHTML = '<span aria-hidden="true">◐</span>';
+
     const host = document.querySelector('#quarto-content') || document.body;
+
     host.appendChild(button);
 
+
+
     button.addEventListener('click', () => {
+
       document.documentElement.classList.toggle('dark');
+
       localStorage.setItem('theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+
     });
+
   });
+
 </script>
+
 
 
 <link rel="stylesheet" href="styles.css">
@@ -196,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="book-chapters-and-selected-policy-outputs-and-science" class="level2">
 <h2 class="anchored" data-anchor-id="book-chapters-and-selected-policy-outputs-and-science">Book chapters and selected policy outputs and science</h2>
 <p>communications</p>
-<p>Sandbrook C, <strong>Fajardo J</strong> (2026) Conserving 30% of the planet will only succeed if people are part of the plan, <em>The Conversation</em>. <a href="https://theconversation.com/embargo-may-12-at-10am-conserving-30-of-the-planet-will-only-succeed-if-people-are-part-of-the-plan-278629">Link</a></p>
+<p>Sandbrook C, <strong>Fajardo J</strong> (2026) Conserving 30% of the planet will only succeed if people are part of the plan, <em>The Conversation</em>. <a href="https://theconversation.com/embargo-may-12-at-10am-conserving-30-of-the-planet-will-only-succeed-if-people-are-part-of-the-plan-278629">Link</a>. <a href="https://theconversation.com/la-conservacion-del-30-del-planeta-solo-tendra-exito-si-las-personas-forman-parte-del-plan-283900">Link en español</a></p>
 <p>Morales D, <strong>Fajardo J</strong>, et al.&nbsp;(2025) Chapter on protected areas and environmental peacebuilding. In <em>Paz Ambiental: Ecos de La Naturaleza En&nbsp; La Transformación Social</em>. Instituto CAPAZ e Instituto Humbold. <a href="https://www.instituto-capaz.org/wp-content/uploads/2025/02/CAPAZ_Paz_Ambiental_Digital.pdf">Link</a></p>
 <p>UNEP-WCMC (2023) <em>Mapping Nature-Based Solutions for Societal Challenges. A Product of the SPACES Coalition</em>. UNEP-WCMC report. <a href="https://pure.iiasa.ac.at/id/eprint/18923/1/202306_SPACES-NbS-Review_02.pdf">Link</a></p>
 </section>

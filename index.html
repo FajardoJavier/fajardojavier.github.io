@@ -71,25 +71,45 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <script>
+
   document.addEventListener('DOMContentLoaded', () => {
+
     const savedTheme = localStorage.getItem('theme');
+
     if (savedTheme !== 'light') document.documentElement.classList.add('dark');
 
+
+
     const button = document.createElement('button');
+
     button.className = 'theme-toggle';
+
     button.type = 'button';
+
     button.setAttribute('aria-label', 'Toggle dark mode');
+
     button.setAttribute('title', 'Toggle dark mode');
+
     button.innerHTML = '<span aria-hidden="true">◐</span>';
+
     const host = document.querySelector('#quarto-content') || document.body;
+
     host.appendChild(button);
 
+
+
     button.addEventListener('click', () => {
+
       document.documentElement.classList.toggle('dark');
+
       localStorage.setItem('theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+
     });
+
   });
+
 </script>
+
 
 
 <link rel="stylesheet" href="styles.css">
