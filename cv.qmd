@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-The best way to reach me is at [**javierfjrdo \[at\] gmail.com**]{.underline}.
+The best way to reach me is at [javierfjrdo@gmail.com](mailto:javierfjrdo@gmail.com).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/your-profile) or through my [university profile](https://www.your-university.example).
 
