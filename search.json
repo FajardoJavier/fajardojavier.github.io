@@ -1,77 +1,17 @@
 [
   {
-    "objectID": "posts/first-post.html",
-    "href": "posts/first-post.html",
-    "title": "A first short post",
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "Javier Fajardo",
     "section": "",
-    "text": "This is a place for a concise research update, an idea in progress, or a reflection prompted by something you have read.\nWrite naturally. A useful short post does not have to be a polished academic article."
+    "text": "Javier Fajardo\n\nResearcher in Environmental Conservation\n\n\nDICE · University of Kent\n\n\n\n  javierfjrdo@gmail.com \n  fajardojavier.github.io \n  LinkedIn \n\n Save my contact"
   },
   {
-    "objectID": "writing.html",
-    "href": "writing.html",
-    "title": "Writing",
+    "objectID": "posts/conference-notes.html",
+    "href": "posts/conference-notes.html",
+    "title": "Conference notes: a useful idea",
     "section": "",
-    "text": "Short notes on research, conferences, and ideas I am still thinking through.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA first short post\n\n\n\nResearch\n\n\n\nA short description of what this post is about.\n\n\n\n\n\nSep 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nConference notes: a useful idea\n\n\n\nConferences\n\n\n\nA brief observation, reflection, or research update.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Javier Fajardo",
-    "section": "Research",
-    "text": "Research\nMy work asks how conservation, particularly global biodiversity commitments to expand protected and conserved areas, can become effective and equitable conservation in practice. I examine how planning choices, the data that are available or missing, and the ways affected people and places are represented shape conservation outcomes across different ecological and social contexts.\nExplore my research →",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Javier Fajardo",
-    "section": "Selected publications",
-    "text": "Selected publications\n\nFajardo, J. et al. (2026) Social implications of the 30×30 global conservation target. Nature Communications.\nFajardo, J. et al. (2025) Reflections from interdisciplinary research on the social implications of implementing 30×30. PARKS\nSandbrook, C., … Fajardo, J. et al. (2023) Social considerations are crucial to success in implementing the 30×30 global conservation target. Nature Ecology & Evolution\nLessmann, J., Geldmann, J., Fajardo, J. et al. (2024) The role of funding in the performance of Latin America’s protected areas. PNAS.\nFajardo, J. et al. (2023) The performance of protected-area expansions in representing tropical Andean species: past trends and climate change prospects. Scientific Reports.\n\nView all publications on Google Scholar →",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#research-projects",
-    "href": "index.html#research-projects",
-    "title": "Javier Fajardo",
-    "section": "Research projects",
-    "text": "Research projects\n\nAdvancing effective and equitable OECMs at scale in Southeast Asia\n\n\nCONDJUST: Conservation Data Justice\n\n\nSNAPP project The social implications of 30×30",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#elsewhere",
-    "href": "index.html#elsewhere",
-    "title": "Javier Fajardo",
-    "section": "Elsewhere",
-    "text": "Elsewhere\n\n  LinkedIn    University profile    Email",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Contact",
-    "section": "",
-    "text": "The best way to reach me is at javierfjrdo@gmail.com.\nYou can also find me on LinkedIn or through my university profile.",
-    "crumbs": [
-      "CV & contact"
-    ]
-  },
-  {
-    "objectID": "cv.html#cv",
-    "href": "cv.html#cv",
-    "title": "Contact",
-    "section": "CV",
-    "text": "CV\nDownload my CV (PDF)",
-    "crumbs": [
-      "CV & contact"
-    ]
+    "text": "Use conference notes to preserve one idea, result, or conversation worth returning to. They can be a few paragraphs long."
   },
   {
     "objectID": "research.html",
@@ -114,10 +54,77 @@
     ]
   },
   {
-    "objectID": "posts/conference-notes.html",
-    "href": "posts/conference-notes.html",
-    "title": "Conference notes: a useful idea",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Contact",
     "section": "",
-    "text": "Use conference notes to preserve one idea, result, or conversation worth returning to. They can be a few paragraphs long."
+    "text": "The best way to reach me is at javierfjrdo@gmail.com.\nYou can also find me on LinkedIn or through my university profile.",
+    "crumbs": [
+      "CV & contact"
+    ]
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "Contact",
+    "section": "CV",
+    "text": "CV\nDownload my CV (PDF)",
+    "crumbs": [
+      "CV & contact"
+    ]
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Javier Fajardo",
+    "section": "Research",
+    "text": "Research\nMy work asks how conservation, particularly global biodiversity commitments to expand protected and conserved areas, can become effective and equitable conservation in practice. I examine how planning choices, the data that are available or missing, and the ways affected people and places are represented shape conservation outcomes across different ecological and social contexts.\nExplore my research →",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Javier Fajardo",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nFajardo, J. et al. (2026) Social implications of the 30×30 global conservation target. Nature Communications.\nFajardo, J. et al. (2025) Reflections from interdisciplinary research on the social implications of implementing 30×30. PARKS\nSandbrook, C., … Fajardo, J. et al. (2023) Social considerations are crucial to success in implementing the 30×30 global conservation target. Nature Ecology & Evolution\nLessmann, J., Geldmann, J., Fajardo, J. et al. (2024) The role of funding in the performance of Latin America’s protected areas. PNAS.\nFajardo, J. et al. (2023) The performance of protected-area expansions in representing tropical Andean species: past trends and climate change prospects. Scientific Reports.\n\nView all publications on Google Scholar →",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Javier Fajardo",
+    "section": "Research projects",
+    "text": "Research projects\n\nAdvancing effective and equitable OECMs at scale in Southeast Asia\n\n\nCONDJUST: Conservation Data Justice\n\n\nSNAPP project The social implications of 30×30",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#elsewhere",
+    "href": "index.html#elsewhere",
+    "title": "Javier Fajardo",
+    "section": "Elsewhere",
+    "text": "Elsewhere\n\n  LinkedIn    University profile    Email",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "Short notes on research, conferences, and ideas I am still thinking through.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA first short post\n\n\n\nResearch\n\n\n\nA short description of what this post is about.\n\n\n\n\n\nSep 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nConference notes: a useful idea\n\n\n\nConferences\n\n\n\nA brief observation, reflection, or research update.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "A first short post",
+    "section": "",
+    "text": "This is a place for a concise research update, an idea in progress, or a reflection prompted by something you have read.\nWrite naturally. A useful short post does not have to be a polished academic article."
   }
 ]
