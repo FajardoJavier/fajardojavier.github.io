@@ -69,33 +69,6 @@ body {
   transform: translate(1.1rem, -5.5px);
 }
 
-/* Moon version of toggle */
-/* .theme-toggle {
-  appearance: none;
-  background: transparent;
-  border: 1px solid var(--ink);
-  border-radius: 999px;
-  color: var(--ink);
-  cursor: pointer;
-  font-size: 1rem;
-  height: 2rem;
-  line-height: 1;
-  position: fixed;
-  right: 1.5rem;
-  top: 1.35rem;
-  width: 2rem;
-  z-index: 1100;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0;
-}
-
-.theme-toggle span {
-  display: block;
-  /* transform: translateY(-1px); */
-} */
-
 .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
 #quarto-content { background: var(--paper); }
@@ -295,4 +268,71 @@ a:hover { color: var(--accent); }
     margin-left: 0;
   }
 
+}
+
+
+/* Digital business card */
+
+.card-page {
+  text-align: center;
+}
+
+.card-subtitle {
+  color: var(--ink);
+  font-size: 1.05rem;
+  margin: -0.7rem 0 0.2rem;
+}
+
+.card-affiliation {
+  color: var(--muted);
+  margin: 0 0 2rem;
+}
+
+.card-actions {
+  margin-top: 1.75rem;
+  text-align: center;
+}
+
+.card-primary-action {
+  display: inline-block;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.65rem 1.2rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+.card-primary-action:hover {
+  background: var(--accent);
+  color: var(--paper);
+  text-decoration: none;
+}
+
+.card-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0;
+}
+
+.card-links a {
+  display: block;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.card-links a:hover {
+  text-decoration: underline;
+}
+
+.card-links i {
+  display: inline-block;
+  width: 1.25rem;
+  margin-right: 0.45rem;
+  text-align: center;
+  color: inherit;
 }

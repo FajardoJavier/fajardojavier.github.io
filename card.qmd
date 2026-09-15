@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+<div class="card-page">
+
+![](images/Photo - Javier Fajardo.jpg){fig-align="center" width=170 fig-alt="Portrait of Javier Fajardo"}
+
+# Javier Fajardo
+
+<p class="card-subtitle">Researcher in Environmental Conservation</p>
+
+<p class="card-affiliation">DICE · University of Kent</p>
+
+<div class="card-actions">
+
+<div class="card-links">
+  <a href="mailto:javierfjrdo@gmail.com">
+    <i class="bi bi-envelope" aria-hidden="true"></i>
+    javierfjrdo@gmail.com
+  </a>
+
+  <a href="https://fajardojavier.github.io/">
+    <i class="bi bi-globe2" aria-hidden="true"></i>
+    fajardojavier.github.io
+  </a>
+
+  <a href="https://www.linkedin.com/in/javier-fajardo-80aa76319">
+    <i class="bi bi-linkedin" aria-hidden="true"></i>
+    LinkedIn
+  </a>
+</div>
+
+<a class="card-primary-action" href="files/Javier-Fajardo.vcf" download>
+  Save my contact
+</a>
+
+</div>
+
+</div>
