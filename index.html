@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -91,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
 
     button.setAttribute('title', 'Toggle dark mode');
 
-    button.innerHTML = '<span aria-hidden="true">◐</span>';
+    button.innerHTML = '<span aria-hidden="true"></span>';
 
     const host = document.querySelector('#quarto-content') || document.body;
 
@@ -110,6 +111,50 @@ ul.task-list li input[type="checkbox"] {
   });
 
 </script>
+
+
+
+<!-- Moon style -->
+
+<!-- <script>
+
+  document.addEventListener('DOMContentLoaded', () => {
+
+    const savedTheme = localStorage.getItem('theme');
+
+    if (savedTheme !== 'light') document.documentElement.classList.add('dark');
+
+
+
+    const button = document.createElement('button');
+
+    button.className = 'theme-toggle';
+
+    button.type = 'button';
+
+    button.setAttribute('aria-label', 'Toggle dark mode');
+
+    button.setAttribute('title', 'Toggle dark mode');
+
+    button.innerHTML = '<span aria-hidden="true">◐</span>';
+
+    const host = document.querySelector('#quarto-content') || document.body;
+
+    host.appendChild(button);
+
+
+
+    button.addEventListener('click', () => {
+
+      document.documentElement.classList.toggle('dark');
+
+      localStorage.setItem('theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+
+    });
+
+  });
+
+</script> -->
 
 
 
