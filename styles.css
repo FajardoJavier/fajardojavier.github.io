@@ -199,6 +199,21 @@ a:hover { color: var(--accent); }
     transform: translate(1.1rem, 1px);
   }
 
+  /* Top-bar colours */
+  .quarto-secondary-nav {
+    background: var(--paper) !important;
+    color: var(--ink);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .quarto-secondary-nav .quarto-page-breadcrumbs a {
+    color: var(--ink) !important;
+  }
+
+  .quarto-secondary-nav .quarto-btn-toggle {
+    color: var(--ink);
+  }
+
   /* Hamburger / X navigation button */
   .quarto-secondary-nav .quarto-btn-toggle {
     color: var(--ink);
