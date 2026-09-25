@@ -1,0 +1,6 @@
+Visit https://fajardojavier.github.io/card-print
+
+Open Inspect
+On three vertical dots in top right, click "Run command"
+"Capture full size screenshot"
+Chose where to save
