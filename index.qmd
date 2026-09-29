@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Javier Fajardo"
+description-meta: "Javier Fajardo is a conservation scientist studying area-based conservation, biodiversity, conservation planning, conservation effectiveness, and conservation data justice."
 ---
 
 ![](images/Photo - Javier Fajardo.jpg){fig-align="center" width=190 fig-alt="Portrait of Javier Fajardo"}

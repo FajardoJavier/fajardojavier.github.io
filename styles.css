@@ -6,7 +6,6 @@
   --muted: #716d66;
   --line: #dedbd3;
   --accent: #596d60;
-  --link: #254d70;
 }
 
 :root.dark {
@@ -71,6 +70,10 @@ body {
 
 .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
+/* Hide title ("Javier Fajardo") from sidebar*/
+.sidebar-title {
+  display: none;
+}
 #quarto-content { background: var(--paper); }
 #quarto-document-content { max-width: 690px; margin: 0 auto; padding: 4rem 2rem 5rem; }
 
